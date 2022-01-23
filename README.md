@@ -47,7 +47,8 @@ def insertion_sort(nums):
 ```
 
 ## Output:
-
+![output](./images/111.jpg)
+![output](./images/222.jpg)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
